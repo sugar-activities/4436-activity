@@ -1,0 +1,7 @@
+[Activity]
+name = Gnumeric
+service_name = org.x.Gnumeric
+icon = Gnumeric
+activity_version = 1
+show_launcher = yes
+exec = sugarGnumeric
